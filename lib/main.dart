@@ -1,6 +1,6 @@
 import 'package:despesas/components/home.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'package:flutter/services.dart'; // primeiro
 
 main() => runApp(ExpensesApp());
 
